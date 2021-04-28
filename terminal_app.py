@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 #Author: Devang Haresh Liya
-#Cite: 
+#Cite: https://www.biorxiv.org/content/10.1101/2021.04.27.441621v1
 #Website: https://qpromoters.com
 
 from Bio import SeqIO
